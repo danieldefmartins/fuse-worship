@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /site/
+Disallow: /tools/
+Disallow: /brand/
+
+Sitemap: https://fuseworship.com/sitemap.xml

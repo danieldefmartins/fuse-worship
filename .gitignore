@@ -1,0 +1,12 @@
+# Audio and video masters stay OUT of this public repo (size and rights)
+*.wav
+*.mp3
+*.flac
+*.aiff
+*.ogg
+*.m4a
+*.mp4
+*.mov
+masters/
+.DS_Store
+node_modules/
